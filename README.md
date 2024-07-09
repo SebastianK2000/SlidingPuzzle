@@ -1,5 +1,9 @@
 # Sliding Puzzle Game
 
+## Link to the game:
+
+https://sliding-puzzle-lidl.netlify.app
+
 PL
 
 Prosta gra "Sliding Puzzle" napisana w HTML, CSS i JavaScript, w której celem jest przemieszczanie kafelków, aby ułożyć obrazek. W tej grze obrazek zostaje podzielony na kawałki, a zadaniem gracza jest przesuwanie kafelków w odpowiedni sposób, aby osiągnąć właściwe ułożenie obrazu.
